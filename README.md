@@ -8,7 +8,8 @@ Refity stores image blobs and manifests on any SFTP server (e.g. Hetzner Storage
 
 <p align="center">
   <a href="https://hub.docker.com/r/troke12/refity-backend"><img alt="Docker pulls (backend)" src="https://img.shields.io/docker/pulls/troke12/refity-backend?style=flat-square"></a>
-  <a href="https://hub.docker.com/r/troke12/refity-frontend"><img alt="Docker pulls (frontend)" src="https://img.shields.io/docker/pulls/troke12/refity-frontend?style=flat-square"></a>
+  <a href="https://hub.docker.com/r/troke12/refity-frontend"><img alt="Docker pulls (frontend)" src="https://img.shields.io/docker/pulls/troke12/refity-frontend?style=flat-square"></a><a href="https://app.fossa.com/projects/git%2Bgithub.com%2Ftroke12%2Frefity?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftroke12%2Frefity.svg?type=shield"/></a>
+
   <a href="https://github.com/troke12/refity"><img alt="GitHub stars" src="https://img.shields.io/github/stars/troke12/refity?style=flat-square"></a>
   <a href="https://troke.id/refity/"><img alt="Website" src="https://img.shields.io/badge/website-troke.id%2Frefity-0066CC?style=flat-square"></a>
   <a href="https://troke.id/refity/docs.html"><img alt="Docs" src="https://img.shields.io/badge/docs-quickstart%20%2B%20api-004499?style=flat-square"></a>
@@ -53,3 +54,6 @@ Change it after first login.
 
 MIT. See `LICENSE`.
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftroke12%2Frefity.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftroke12%2Frefity?ref=badge_large)
